@@ -1,0 +1,13 @@
+Changes
+MANIFEST
+Makefile.PL
+README
+lib/Win32/Word/Declarative.pm
+lib/Win32/Word/Declarative/Document.pm
+lib/Win32/Word/Declarative/Text.pm
+lib/Win32/Word/Declarative/Table.pm
+t/00-load.t
+t/manifest.t
+t/pod-coverage.t
+t/pod.t
+META.yml                                 Module meta-data (added by MakeMaker)
